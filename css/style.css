@@ -2,3 +2,15 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+p {text-align: center;
+  background-color: red;
+  color:green;
+  padding: 10px;
+  font-size:xx-large;
+  font-style:oblique;
+}
+body {background-color: green;}
+
+h1 {color: red;
+  text-align: center;
+}
